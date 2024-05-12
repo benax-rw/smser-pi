@@ -31,13 +31,13 @@ Open a terminal on your Raspberry Pi and install the `smbus2` Python library:
 
 sudo pip install netifaces smbus2
 
-++++++++++++++++++++++++++<br>
+++++++++++++++++++++++++++<br><br>
 **2. Download and Save into SQLite DB**
 
 Requirements;
 sudo apt install sqlite
 
-++++++++++++++++++++++++++<br>
+++++++++++++++++++++++++++<br><br>
 **3. Fetch from DB and Send via Serial**
 
 Requirements;
